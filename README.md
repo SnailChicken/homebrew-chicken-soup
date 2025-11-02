@@ -2,14 +2,14 @@
 
 ## How do I install these formulae?
 
-`brew install snailchicken/snailchicken-brew/<formula>`
+`brew install snailchicken/chicken-soup<formula>`
 
-Or `brew tap snailchicken/tap` and then `brew install <formula>`.
+Or `brew tap snailchicken/chicken-soup` and then `brew install <formula>`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "snailchicken/tap"
+tap "snailchicken/chicken-soup"
 brew "<formula>"
 ```
 
