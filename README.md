@@ -2,7 +2,7 @@
 
 ## How do I install these formulae?
 
-`brew install snailchicken/tap/<formula>`
+`brew install snailchicken/snailchicken-brew/<formula>`
 
 Or `brew tap snailchicken/tap` and then `brew install <formula>`.
 
